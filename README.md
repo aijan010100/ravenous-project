@@ -18,7 +18,6 @@ This project's main focus is to practice and showcase using Javascript + React c
 
 #### Creating Static Components:
 
-During the first step I:
 - Used create-react-app to start the project
 - Built all of the components for the remainder of the project
 - Simulated what Ravenous should look like after returning search results
@@ -28,6 +27,8 @@ So far, I have hard coded business information and rendered it manually. In the 
 #### Passing Information to Components:
 - Moved business information to the container component (App.js)
 - Passed information from parent components (App.js) to child components (BusinessList.js, Business.js)
+
+#### Setting the State of Ravenous Components:
 - Set the state of search bar elements
 - Simulated a search query
 
