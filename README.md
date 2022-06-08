@@ -32,7 +32,9 @@ So far, I have hard coded business information and rendered it manually. In the 
 - Set the state of search bar elements
 - Simulated a search query
 
-
+#### Interacting with the Yelp API
+- Connected to the Yelp API;
+- Tested a functionality of the website. 
 
 
 
