@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7aace55.css",
-    "main.js": "/static/js/main.12fa0027.js",
-    "static/media/background_search_desktop.jpeg": "/static/media/background_search_desktop.5d22362af7aa3252eb5b.jpeg",
-    "static/media/background_search_mobile.jpeg": "/static/media/background_search_mobile.a6f8ee50c5c0c66a98c5.jpeg",
-    "index.html": "/index.html",
-    "main.d7aace55.css.map": "/static/css/main.d7aace55.css.map",
-    "main.12fa0027.js.map": "/static/js/main.12fa0027.js.map"
+    "main.css": "//aijan010100.github.io/ravenous-project/static/css/main.33da94cc.css",
+    "main.js": "//aijan010100.github.io/ravenous-project/static/js/main.5790fc34.js",
+    "static/media/background_search_desktop.jpeg": "//aijan010100.github.io/ravenous-project/static/media/background_search_desktop.5d22362af7aa3252eb5b.jpeg",
+    "static/media/background_search_mobile.jpeg": "//aijan010100.github.io/ravenous-project/static/media/background_search_mobile.a6f8ee50c5c0c66a98c5.jpeg",
+    "index.html": "//aijan010100.github.io/ravenous-project/index.html",
+    "main.33da94cc.css.map": "//aijan010100.github.io/ravenous-project/static/css/main.33da94cc.css.map",
+    "main.5790fc34.js.map": "//aijan010100.github.io/ravenous-project/static/js/main.5790fc34.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7aace55.css",
-    "static/js/main.12fa0027.js"
+    "static/css/main.33da94cc.css",
+    "static/js/main.5790fc34.js"
   ]
 }
